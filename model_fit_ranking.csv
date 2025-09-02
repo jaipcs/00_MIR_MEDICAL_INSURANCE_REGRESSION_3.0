@@ -1,0 +1,19 @@
+Model,Fit_Status,Rank
+GradientBoosting,Good Fit,1
+DecisionTree,Good Fit,2
+LightGBM,Good Fit,3
+CatBoost,Good Fit,4
+PolynomialRegression,Good Fit,5
+RandomForest,Good Fit,6
+XGBoost,Overfit,7
+LinearRegression,Good Fit,8
+PLSR,Good Fit,9
+BayesianRidge,Good Fit,10
+Lasso,Good Fit,11
+Ridge,Good Fit,12
+RobustRegression,Underfit,13
+ElasticNet,Good Fit,14
+KNN,Overfit,15
+QuantileRegression,Moderate Fit,16
+SVR,Moderate Fit,17
+GaussianProcess,Overfit,18
